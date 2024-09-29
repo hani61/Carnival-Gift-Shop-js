@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Carnival Gift Shop/*
+!/Carnival Gift Shop/task/
+/Carnival Gift Shop/task/*
+!/Carnival Gift Shop/task/main.js
